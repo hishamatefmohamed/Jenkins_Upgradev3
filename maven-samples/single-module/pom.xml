@@ -63,7 +63,7 @@
 
       <plugin>
         <artifactId>maven-site-plugin</artifactId>
-        <version>7.0</version>
+        <version>1.7</version>
         <configuration>
           <reportPlugins>
             <plugin>
